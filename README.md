@@ -19,11 +19,13 @@ pip install requests
 git clone https://github.com/TermuxArt/Spammer
 cd Spammer
 ls
-python spam.py
 ```
 
 # Cara Menggunakan
-
+KETIK :
+```
+python spam.py
+```
 UNTUK LAYANAN SMS KETIK :
 ```
 kirim sms
