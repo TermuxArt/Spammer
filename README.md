@@ -34,6 +34,10 @@ UNTUK PRANK  CALL KETIK :
 ```
 kirim call
 ```
+BILA SUDAH LALU MULAI KETIK :
+```
+run
+```
 
 # Images
 
