@@ -46,6 +46,7 @@ run
 
 # Shadow
 
+
 ![GitHub watchers](https://img.shields.io/github/watchers/oxyda-fox/TermuxArt/Spammer?color=red&label=Watched%20by&style=flat-square)    ![GitHub repo size](https://img.shields.io/github/repo-size/oxyda-fox/TermuxArt/Spammer?color=red&style=flat-square) ![GitHub last commit](https://img.shields.io/github/last-commit/oxyda-fox/TermuxArt/Spammer?style=flat-square)
 
 
